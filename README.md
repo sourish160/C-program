@@ -1,5 +1,6 @@
-# Digital-Clock (C Program)
+# C Program
 
+## Digital-Clock
 This is a simple Digital Clock program written in C.  
 It displays the current time and date in either 24-hour format or 12-hour format with AM/PM, based on user choice.  
 
